@@ -7,7 +7,7 @@
         </center><br>
         <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?php echo base_url(); ?>index.php/profesores">
             <div class="sidebar-brand-icon rotate-n-15">
-                <i class="fas fa-laugh-wink"></i>
+                <i class="fas fa-chalkboard-teacher"></i>
             </div>
             <div class="sidebar-brand-text mx-3">Profesores </div>
         </a>
@@ -19,7 +19,7 @@
         </li>
              <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/importador">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-file-import"></i>
           <span>Importador</span></a>
         </li>
         
@@ -30,18 +30,18 @@
         
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/objetivos">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-object-ungroup"></i>
           <span>Objetivos</span></a>
         </li>
       
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/nuevo_objetivo">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-object-ungroup"></i>
           <span>Nuevo Objetivo</span></a>
         </li>
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/nueva_tarea">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-project-diagram"></i>
           <span>Nueva Tarea</span></a>
         </li>
         <hr class="sidebar-divider">
@@ -50,7 +50,7 @@
         </div>
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/usuarios">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-users"></i>
           <span>Usuarios</span></a>
         </li>
         
@@ -62,10 +62,10 @@
         </div>
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/profesores/cuenta">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-users-cog"></i>
           <span>Cuenta</span></a>
             <a class="nav-link" href="#" data-target="#logoutModal"  data-toggle="modal">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-sign-in-alt"></i>
           <span>Salir</span></a>
             
             

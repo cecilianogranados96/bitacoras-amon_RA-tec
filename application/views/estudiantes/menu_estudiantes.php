@@ -7,7 +7,7 @@
         </center><br>
         <a class="sidebar-brand d-flex align-items-center justify-content-center" href="<?php echo base_url(); ?>index.php/estudiantes">
             <div class="sidebar-brand-icon rotate-n-15">
-                <i class="fas fa-laugh-wink"></i>
+                <i class="fas fa-graduation-cap"></i>
             </div>
             <div class="sidebar-brand-text mx-3">Estudiantes</div>
         </a>
@@ -18,7 +18,7 @@
         </div>
         <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/estudiantes/">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-project-diagram"></i>
           <span>Tareas</span></a>
         </li>
         <hr class="sidebar-divider">
@@ -27,10 +27,10 @@
         </div>
            <li class="nav-item ">
             <a class="nav-link" href="<?php echo base_url(); ?>index.php/estudiantes/cuenta">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-users-cog"></i>
           <span>Cuenta</span></a>
             <a class="nav-link" href="#" data-target="#logoutModal"  data-toggle="modal">
-          <i class="fas fa-fw fa-tachometer-alt"></i>
+          <i class="fas fa-fw fa-sign-in-alt"></i>
           <span>Salir</span></a>  
         </li>
     </ul>
